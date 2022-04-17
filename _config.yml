@@ -7,12 +7,12 @@
 
 # Site settings
 title: "Help Center"
-email: gusquinalha@gmail.com
+email: info@wch-community.com
 description: "You can ask help, but won't receive it here :D"
-baseurl: "/pages-test"
-url: "http://martijnbraam.github.io"
+baseurl: "/help"
+url: "https://wch-community.com"
 twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+github_username:  "wch-community"
 color_theme:  "#0081ff"
 color_text:  "#fff"
 language:  "en"
